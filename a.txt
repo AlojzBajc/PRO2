@@ -1,2 +1,4 @@
 testna datoteka
 sprememba
+
+Imam eno super novo idejo
