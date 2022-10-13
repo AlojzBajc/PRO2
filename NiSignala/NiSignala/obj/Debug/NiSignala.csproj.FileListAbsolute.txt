@@ -1,0 +1,8 @@
+D:\PRO2\NiSignala\NiSignala\bin\Debug\NiSignala.exe.config
+D:\PRO2\NiSignala\NiSignala\bin\Debug\NiSignala.exe
+D:\PRO2\NiSignala\NiSignala\bin\Debug\NiSignala.pdb
+D:\PRO2\NiSignala\NiSignala\obj\Debug\NiSignala.csproj.AssemblyReference.cache
+D:\PRO2\NiSignala\NiSignala\obj\Debug\NiSignala.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\NiSignala\NiSignala\obj\Debug\NiSignala.csproj.CoreCompileInputs.cache
+D:\PRO2\NiSignala\NiSignala\obj\Debug\NiSignala.exe
+D:\PRO2\NiSignala\NiSignala\obj\Debug\NiSignala.pdb
