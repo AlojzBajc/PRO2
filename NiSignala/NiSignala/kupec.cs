@@ -8,8 +8,8 @@ namespace NiSignala
 {
     internal class kupec
     {
-        private string ime;
-        private decimal stanje;
+        protected string ime;
+        protected decimal stanje;
 
         public string Ime { get => ime; set => ime = value; }
         public decimal Stanje { get => stanje; }
@@ -20,7 +20,7 @@ namespace NiSignala
             stanje -= plačilo;
         }
 
-        public void BeležiKlic(int min, TipKlica tip)
+        public virtual void BeležiKlic(int min, TipKlica tip)
         {
             switch (tip)
             {
@@ -39,6 +39,12 @@ namespace NiSignala
 
             }
         }
+
+        public override string ToString()
+        {
+            return ime + "dolguje" + stanje + " evrov";
+        }
+
     }
 
 }
