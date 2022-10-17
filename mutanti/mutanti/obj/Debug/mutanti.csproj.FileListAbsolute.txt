@@ -1,0 +1,8 @@
+D:\PRO2\mutanti\mutanti\bin\Debug\mutanti.exe.config
+D:\PRO2\mutanti\mutanti\bin\Debug\mutanti.exe
+D:\PRO2\mutanti\mutanti\bin\Debug\mutanti.pdb
+D:\PRO2\mutanti\mutanti\obj\Debug\mutanti.csproj.AssemblyReference.cache
+D:\PRO2\mutanti\mutanti\obj\Debug\mutanti.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\mutanti\mutanti\obj\Debug\mutanti.csproj.CoreCompileInputs.cache
+D:\PRO2\mutanti\mutanti\obj\Debug\mutanti.exe
+D:\PRO2\mutanti\mutanti\obj\Debug\mutanti.pdb
