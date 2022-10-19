@@ -1,0 +1,11 @@
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\bin\Debug\Računanje s kompleksnimi števili.exe.config
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\bin\Debug\Računanje s kompleksnimi števili.exe
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\bin\Debug\Računanje s kompleksnimi števili.pdb
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\Računanje s kompleksnimi števili.csproj.AssemblyReference.cache
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\Računanje s kompleksnimi števili.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\Računanje_s_kompleksnimi_števili.Form1.resources
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\Računanje_s_kompleksnimi_števili.Properties.Resources.resources
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\Računanje s kompleksnimi števili.csproj.GenerateResource.cache
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\Računanje s kompleksnimi števili.csproj.CoreCompileInputs.cache
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\Računanje s kompleksnimi števili.exe
+D:\PRO2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\Računanje s kompleksnimi števili.pdb
